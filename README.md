@@ -126,7 +126,7 @@ The interactive dashboard provides:
 
 ## Executive Overview
 
-![Executive Overview](Images/pbi country tooltip analysis.png)
+![Executive Overview](Images%20)
 
 ---
 
@@ -162,7 +162,7 @@ The interactive dashboard provides:
 
 ## Country Tooltip Analysis
 
-![Country Tooltip Analysis](Images/pbi country tooltip analysis.png)
+![Country Tooltip Analysis](Images%20pbi%20country%20tooltip%20analysis.png)
 
 ---
 
