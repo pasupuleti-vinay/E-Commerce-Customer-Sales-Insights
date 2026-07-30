@@ -126,7 +126,7 @@ The interactive dashboard provides:
 
 ## Executive Overview
 
-![Executive Overview](Images/pbi executive overview.png)
+![Executive Overview](Images/pbi country tooltip analysis.png)
 
 ---
 
