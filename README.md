@@ -1,38 +1,30 @@
-# 📊 E-Commerce Customer & Sales Insights
+# E-Commerce Customer & Sales Insights
 
-## 📌 Project Overview
+End to end ECommerce Analytics project built using Python, SQL, and Power BI to analyze customer behavior, sales performance, product trends, and revenue insights.
 
-The **E-Commerce Customer & Sales Insights** project is an end-to-end data analytics project that analyzes an online retail dataset to uncover valuable business insights. The project combines **SQL**, **Python**, and **Power BI** to perform data cleaning, exploratory data analysis, customer segmentation, and interactive dashboard creation.
+This project includes:
 
-The primary objective is to help business stakeholders understand customer purchasing behavior, identify top-performing products, analyze sales trends, and support data-driven decision-making.
-
----
-
-## 🎯 Project Objectives
-
-- Clean and prepare raw e-commerce transaction data.
-- Perform exploratory data analysis (EDA).
-- Analyze monthly sales and revenue trends.
-- Identify top-selling products and high-value customers.
-- Segment customers using RFM Analysis.
-- Build an interactive Power BI dashboard for business insights.
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+RFM Customer Segmentation
+SQL Business Analysis
+Interactive Power BI Dashboards
+Executive Business Insights & Recommendations
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **SQL (MySQL)** – Data cleaning and business analysis
-- **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib
-- **Power BI**
-- **Microsoft Excel**
-- **Git & GitHub**
+## Tech Stack
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+MySQL
+Power BI
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 E-Commerce-Customer-Sales-Insights/
@@ -70,67 +62,45 @@ E-Commerce-Customer-Sales-Insights/
 
 ---
 
-# 📊 Dataset
+# Project Overview
+This project focuses on analyzing E-Commerce transaction data to extract actionable business insights such as:
 
-The project uses an Online Retail transactional dataset containing customer purchases from an e-commerce business.
-
-The dataset includes:
-
-- Invoice Number
-- Customer ID
-- Product Description
-- Quantity
-- Unit Price
-- Invoice Date
-- Country
+Revenue trends and seasonal sales patterns
+Top-performing products and countries
+Customer purchasing behavior
+RFM-based customer segmentation
+KPI tracking and executive insights
 
 ---
 
-# 🧹 Data Cleaning
+# Python Analysis
+The Python notebook includes:
 
-The dataset was cleaned using SQL and Python by performing the following steps:
-
-- Removed duplicate records
-- Removed missing Customer IDs
-- Removed cancelled orders
-- Removed invalid quantities
-- Removed invalid unit prices
-- Converted data types
-- Created calculated columns
-- Prepared clean dataset for analysis
+Data Cleaning
+Missing Value Handling
+Feature Engineering
+Revenue Analysis
+Customer Segmentation
+Product Performance Analysis
+Data Visualization
 
 ---
 
-# 📈 Exploratory Data Analysis (EDA)
+# SQL Business Analysis
+The SQL analysis includes:
 
-The project answers several important business questions, including:
-
-- What are the monthly revenue trends?
-- Which products generate the highest revenue?
-- Which customers contribute the most sales?
-- Which countries generate the highest revenue?
-- What are customer purchasing patterns?
-- Which customer segments are most valuable?
-
----
-
-# 👥 Customer Segmentation (RFM Analysis)
-
-Customers were segmented using the RFM Model:
-
-- **Recency** – How recently a customer purchased
-- **Frequency** – How often a customer purchases
-- **Monetary** – Total spending by the customer
-
-Customer segments include:
-
-- VIP Customers
-- Loyal Customers
-- Regular Customers
-- New Customers
-- At Risk Customers
+Total Revenue Analysis
+Total Orders Analysis
+Customer Analysis
+Top Products by Revenue
+Top Countries by Revenue
+Average Order Value
+Revenue Trend Analysis
+Customer Segmentation Queries
+Product Revenue Ranking
 
 ---
+
 
 # 📊 Power BI Dashboard
 
@@ -222,39 +192,60 @@ The interactive Power BI dashboard provides:
 
 ---
 
-# 📌 Key Business Insights
-
-- Identified the highest revenue-generating products.
-- Identified top-performing customers.
-- Discovered monthly revenue trends.
-- Segmented customers based on purchasing behavior.
-- Identified countries contributing the highest revenue.
-- Built an interactive dashboard for business decision-making.
+#  Key Business Insights
+ United Kingdom generated the highest revenue.
+ Sales peaked in November and December.
+ VIP and Loyal customers generated most revenue.
+ Top-selling products drove the majority of sales.
+ Strong repeat purchase behavior was observed.
 
 ---
 
-# 🚀 Skills Demonstrated
-
-- SQL Queries
-- Data Cleaning
-- Exploratory Data Analysis
-- Customer Segmentation
-- RFM Analysis
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Data Storytelling
+# Business Recommendations
+ Strengthen VIP customer loyalty programs.
+ Increase marketing during Q4.
+ Focus on top-selling products.
+ Expand in high-performing countries.
 
 ---
 
-# 👨‍💻 Author
+# How to Run the Project
+Python Notebook
+Open:
 
-**Vinay**
+Notebooks/ecommerce customer sales analysis.ipynb
+Run all cells.
 
-GitHub: https://github.com/231FA04C09
+SQL Analysis
+Open:
+
+SQL/Ecommerce Sales Analysis.sql
+Execute queries in MySQL Workbench.
+
+Power BI Dashboard
+Open:
+
+PowerBI/Ecommerce Sales Dashboard.pbix
+Refresh dataset if required.  
+
+---
+
+# Dataset
+Dataset used: Online Retail E-Commerce Dataset
+
+Contains:
+
+Transaction details
+Product information
+Customer purchase history
+Country-wise sales data
+
+---
+
+# Author
+
+P. Uma Venkata Vinay
+
+GitHub: https://github.com/pasupuleti-vinay
 
 LinkedIn: https://www.linkedin.com/in/pasupuletivinay
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
