@@ -125,7 +125,8 @@ The interactive dashboard provides:
 # Dashboard Screenshots
 
 ## Executive Overview
-[Executive Overview](Images%20pbi%20executive%20overview.png)
+
+![Executive Overview](Images%20pbi%20executive%20overview.png)
 
 ---
 
